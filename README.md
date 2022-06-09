@@ -10,7 +10,6 @@ Content from presentations I've made.
 
 * **AfricaHackon 2017** - An Anatomy of a Targeted Attack
   - [Slides](https://github.com/V1V1/Presentations/blob/main/2017/AfricaHackon-2017/AfricaHackon-2017_An-Anatomy-of-a-Targeted-Attack.pdf).
-  - [Demo videos](https://www.youtube.com/watch?v=xFZLtDolocU&list=PL5ti64EznA0nsZ1ukE7m0e59D4ziaF6ep).
   - Co-presented with [Truneski](https://twitter.com/truneski).
 
 ## 2016
