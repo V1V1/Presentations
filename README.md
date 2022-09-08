@@ -1,6 +1,11 @@
 # Presentations
 Content from presentations I've made.
 
+## 2022
+
+* **SheHacks 2022** (Webinar) - Demystifying Initial Access in Azure
+  - [Slides](https://github.com/V1V1/Presentations/blob/main/2022/SheHacks-2022/SheHacks-2022-Demystifying-Initial-Access-in-Azure.pdf).
+
 ## 2019
 
 * **AfricaHackon 2019** (Workshop) - A Red and Blue Guide to Popular Active Directory Attacks
