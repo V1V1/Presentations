@@ -3,12 +3,13 @@ Content from presentations I've made.
 
 ## 2022
 
-* **BSides Nairobi 2022** - A Career in Security
+* **BSides Nairobi 2022** (Career Workshop) - A Career in Security
   - [Slides](https://github.com/V1V1/Presentations/blob/main/2022/BSides-Nairobi-2022/BSides-Nairobi-2022-A-Career-in-Security.pdf).
 
 * **SheHacks 2022** (Webinar) - Demystifying Initial Access in Azure
   - [Slides](https://github.com/V1V1/Presentations/blob/main/2022/SheHacks-2022/SheHacks-2022-Demystifying-Initial-Access-in-Azure.pdf).
   - [Video](https://www.youtube.com/watch?v=cq_QApk7WJk).
+  - [Demo videos](https://www.youtube.com/watch?v=NB0lLKXz8Y0&list=PL5ti64EznA0nRq45-2Vzz4Kbb06HYMhgs).
 
 ## 2019
 
